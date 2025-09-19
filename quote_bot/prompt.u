@@ -1,0 +1,10 @@
+I'll give you a word and you follow these steps:
+
+pick one of these category, base on word (inspirational, work, travel, life, love, freedom, death, general)
+select a quote that feeds into that categoryt
+format the quote like the following:
+{PERSON} says:
+"{QUOTE}"
+translate to farsi, and
+5 show the category, original quote, and translated quote
+word: ```
